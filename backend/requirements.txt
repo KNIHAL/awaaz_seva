@@ -1,9 +1,0 @@
-fastapi
-uvicorn
-langchain
-langchain-google-genai
-langchain-community
-google-cloud-texttospeech
-googletrans
-tavily-python
-python-multipart
